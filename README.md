@@ -1,6 +1,4 @@
-# climbing-sessions-mcp
-
-# climbing-journal MCP Server
+# climbing-sessions-mcp Server
 
 An MCP (Model Context Protocol) server that connects Claude to a Turso SQLite database containing climbing session data. Claude can query sessions, projects, and attempts in real time during coaching conversations, and log new sessions conversationally through a structured debrief flow.
 
