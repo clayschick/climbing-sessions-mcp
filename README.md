@@ -429,7 +429,7 @@ After all inserts succeed, the coach offers one coaching observation based on wh
 
 ## Related
 
-- [`worker.js`](../worker/) — Cloudflare Worker API layer
+- [`worker.js`](https://github.com/clayschick/climbing-sessions-api/blob/51149e0c8e587827d61203a572ef5834ca6ffe43/src/index.js) — Cloudflare Worker API layer
 - [`schema.sql`](../db/) — Turso database schema
 - [`migrate.js`](../db/) — Airtable → Turso migration script
 - [`climbing_coach_prompt.docx`](../prompt/) — Claude coaching system prompt

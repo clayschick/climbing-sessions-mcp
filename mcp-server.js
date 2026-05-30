@@ -14,7 +14,7 @@
  *             Connect via URL in Claude Projects or remote deployments.
  *
  * Required environment variables:
- *   WORKER_URL    https://climbing-db.your-subdomain.workers.dev
+ *   WORKER_URL    https://climbing-sessions-api.clay-schick.workers.dev/
  *   WORKER_TOKEN  the API_SECRET you set on the Worker
  *   PORT          port to listen on for SSE mode (default: 3000)
  *
